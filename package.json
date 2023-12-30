@@ -1,0 +1,13 @@
+{
+    "name": "cs-compiler",
+    "version": "0.0.1",
+    "description": "Compile C# source",
+    "main": "index.js",
+    "repository": "https://github.com/wachaon/cs-compiler.git",
+    "keywords": [
+        "C#",
+        "compile"
+    ],
+    "author": "wachaon",
+    "license": "MIT"
+}
